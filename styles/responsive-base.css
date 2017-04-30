@@ -19,13 +19,11 @@
 }
 
 .main-nav-list {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 .main-nav-list-item {
   padding: .7rem 0;
-  width: 100%;
-  display:block;
   text-align:center;
   background-color: lime;
   border: 1px solid #000;
@@ -33,7 +31,6 @@
 
 .box {
   background-color: pink;
-  width: 100%;
   border:1px solid blue;
   margin: 10px 0;
   padding:10px;
